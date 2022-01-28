@@ -26,7 +26,7 @@ Provided with the following:
 ## Images
 *Preview of application*
 
-![Application User Interface](./public/images/preview.PNG)
+![Application User Interface](./public/images/preview.png)
 
 ## Questions
 Reach out to me on GitHub or contact me by email address.  
